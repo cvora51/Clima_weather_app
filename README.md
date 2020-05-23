@@ -19,6 +19,11 @@ The app makes use of API from the openweathermap.org for collecting live data fr
 
 ![Main Screen](./ScreenShots/SS3.jpg)
 
+4] An example of other city (Darjeeling)
+
+![Main Screen](./ScreenShots/SS4.jpg)
+
+
 ## Some of the key features of the app are as follows :
 
 -> Asynchronous programming in Dart.
