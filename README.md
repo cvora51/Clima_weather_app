@@ -1,16 +1,39 @@
-#CLIMA
+# CLIMA
 
-A simple weather based Flutter application.
+A simple weather based Flutter application. This app is made to carry out time consuming tasks such
+as getting device location and networking to get live data from the Internet. You will be able to find
+out live weather data in current location of device as well as weather for any other city you want to.
+The app makes use of API from the openweathermap.org for collecting live data from Internet.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1] This is the main screen of the application. It by default displays the weather details of your current location.
 
-A few resources to get you started if this is your first Flutter project:
+![Main Screen](./ScreenShots/SS1.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2] This is the search screen where you can search weather for any city you want to just by typing the city name.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main Screen](./ScreenShots/SS2.jpg)
+
+3] This are the respective details of the particular city you've entered (For eg :- Puducherry)
+
+![Main Screen](./ScreenShots/SS3.jpg)
+
+## Some of the key features of the app are as follows :
+
+-> Asynchronous programming in Dart.
+
+-> Networking with Dart http package.
+
+-> Using API to fetch data from the Internet.
+
+-> JSON for parsing the data.
+
+-> Exception handling in Dart.
+
+-> Use of Geolocator package to get live location.
+
+-> Textfield Widget to take user input.
+
+
+
